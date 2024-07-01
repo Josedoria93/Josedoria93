@@ -25,7 +25,7 @@
   </a>
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="MSExcel"/>
 </p>
-##Get in touch with me 👋:
+<h3 align="center">Get in touch with me 👋:</h3>
 
 <p>
     <a href="https://www.linkedin.com/in/jose-luis-doria-petro-75b78a211/">
