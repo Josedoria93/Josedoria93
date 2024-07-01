@@ -9,5 +9,14 @@
 <ul>
   <li>👋 Hi, I’m Jose Luis Doria</li>
   <li>❤️ I like to create databases and develop dashboards for business decision-making.</li>
-  <li>🌱 "I am currently solidifying my knowledge in SQL and Power BI." ().</li>
+  <li>🌱 I am currently solidifying my knowledge in SQL and Power BI.</li>
 </ul>
+<!-- LANGUAGES AND TOOLS -->
+<hr>
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> 
+  
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+  ![MSExcel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) 
+
+</p>  
