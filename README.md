@@ -1,49 +1,40 @@
 <p align="center">
-  <h1 align="center">Hello! I'm <a href="https://github.com/Josedoria93">Jose Doria</a> 👋</h1>
-  <p align="center">Business Intelligence Specialist | SQL & Power BI Expert</p>
+  <h1 align="center">Welcome to <a href=" https://github.com/Josedoria93">Jose Doria </a>'s Profile 👋</h1>
 </p>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=4CAF50&size=24&lines=Transforming+Data+into+Insights+for+Strategic+Decisions" alt="Typing SVG" />
+  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;Business+administrator+specialized+in+Business+Intelligence%2C+passionate+about+unraveling+data+to+reveal+strategic+insights.+Currently%2C+I+am+studying+and+acquiring+new+knowledge+in+SQL+and+Power+BI%2C+fundamental+tools+for+transforming+data+into+informed+decisions+and+effective+actions+in+the+business+environment." /></a>
 </p>
-
+<p>Business administrator specialized in Business Intelligence, passionate about unraveling data to reveal strategic insights. Currently, I am studying and acquiring new knowledge in SQL and Power BI, fundamental tools for transforming data into informed decisions and effective actions in the business environment..</p>
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
+<ul>
+  <li>👋 Hi, I’m Jose Luis Doria</li>
+  <li>❤️ I like to create databases and develop dashboards for business decision-making.</li>
+  <li>🌱 I am currently solidifying my knowledge in SQL and Power BI.</li>
+</ul>
+<hr>
+<h3 align="center">Languages and Tools:</h3>
 <p align="center">
-  As a Business Administrator with expertise in Business Intelligence, I leverage SQL (MySQL) and Power BI to create meaningful data insights. Here are some of my key projects:
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o6Zt9T13pHlWxaTCU/giphy.gif" alt="animated" width="200"/>
-</p>
-
-<h3 align="center">🚀 Featured Projects</h3>
-<p align="center">
-  - **[Sales Dashboard](https://github.com/Josedoria93/sales-dashboard)**: An interactive Power BI dashboard for monitoring sales performance across different regions.
-  - **[Customer Data Analysis](https://github.com/Josedoria93/customer-data-analysis)**: SQL-based analysis for customer segmentation and behavior insights.
-  - **[Financial Reporting System](https://github.com/Josedoria93/financial-reporting-system)**: Comprehensive reporting system for financial data using Excel and Power BI.
-</p>
-
-<h3 align="center">🛠️ Technologies I Use</h3>
-<p align="center">
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
+    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
+  </a>
   <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://www.svgrepo.com/show/27678/mysql.svg" alt="MySQL" width="50" height="50"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
   <a href="https://powerbi.microsoft.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Power_BI_Logo.png" alt="Power BI" width="50" height="50"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-original.svg" alt="powerbi" width="40" height="40"/>
   </a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Microsoft_Excel_Logo_%282018%29.svg" alt="Excel" width="50" height="50"/>
-  </a>
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="MSExcel"/>
 </p>
+<h3 align="center">Get in touch with me 👋:</h3>
 
-<h3 align="center">📬 Connect with Me</h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/jose-luis-doria-petro-75b78a211/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>
-  </a> 
-  <a href="mailto:joseluisdoria7@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" height="35"/>
+<p>
+    <a href="https://www.linkedin.com/in/jose-luis-doria-petro-75b78a211/">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=35>
+    </a> 
+<a href="mailto:joseluisdoria7@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" height=35>
   </a>
-</p>
+
 
 
 
