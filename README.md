@@ -52,33 +52,36 @@
   </a>
 </p>
 
-<h3 align="center">🔍 Featured Project:</h3>
+## 🔍 Featured Project
 
 <p align="center">
   <a href="https://github.com/Josedoria93/sql_project" target="_blank">
     <img src="https://img.shields.io/badge/SQL_Project-007ACC?style=for-the-badge&logo=github&logoColor=white" alt="SQL Project"/>
   </a>
+</p>
+
+### SQL Project: Optimización y Gestión Integral de Operaciones en una Ferretería
+
+<p align="center">
+  📊 **Overview:** This project focuses on the optimization and comprehensive management of operations in a hardware store. It demonstrates my ability to enhance operational efficiency and data management through advanced SQL techniques.
+  <br><br>
+  🛠️ **Key Technologies:**
   <br>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="Visual Studio Code" width="40" height="40"/>
+  </a>
+  <a href="https://postimages.org/" target="_blank">
+    <img src="https://postimg.cc/4g39sGRJ" alt="Postimage" width="40" height="40"/>
+  </a>
+  <br><br>
   <a href="https://github.com/Josedoria93/sql_project" target="_blank">
-    <strong>SQL Project: Optimización y Gestión Integral de Operaciones en una Ferretería</strong>
+    <img src="https://img.shields.io/badge/Explore%20Project-Click%20Here-brightgreen?style=flat&logo=github" alt="Explore Project"/>
   </a>
 </p>
 
-<p align="center">
-  📊 <strong>Overview:</strong> This project focuses on the optimization and comprehensive management of operations in a hardware store. It demonstrates my ability to enhance operational efficiency and data management through advanced SQL techniques.
-  <br><br>
-  🛠️ <strong>Key Technologies:</strong>
-  <br>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="30" height="30"/>
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="Visual Studio Code" width="30" height="30"/>
-  </a>
-  <a href="https://postimages.org/" target="_blank">
-    <img src="https://postimg.cc/4g39sGRJ" alt="Postimage" width="30" height="30"/>
-  </a>
-</p>
 
 
 
