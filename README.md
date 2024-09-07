@@ -31,8 +31,14 @@
   <a href="https://powerbi.microsoft.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-original.svg" alt="Power BI" width="50" height="50"/>
   </a>
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" height="50"/>
+  </a>
+  <a href="https://github.com/" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="50"/>
+  </a>
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
-    <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Microsoft Excel"/>
+    <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Microsoft Excel" height="50"/>
   </a>
 </p>
 
@@ -56,6 +62,7 @@
     <strong>SQL Project: Optimización y Gestión Integral de Operaciones en una Ferretería</strong>
   </a> - This project involves the optimization and comprehensive management of operations in a hardware store. It showcases my ability to enhance operational efficiency and data management through advanced SQL techniques.
 </p>
+
 
 
 
