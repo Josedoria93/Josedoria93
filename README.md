@@ -32,8 +32,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-original.svg" alt="Power BI" width="50" height="50"/>
   </a>
   <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" height="50"/>
-  </a>
+  <img src="https://www.svgrepo.com/show/303623/visual-studio-code-logo.svg" alt="Visual Studio Code" width="50" height="50"/>
+</a>
   <a href="https://github.com/" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="50"/>
   </a>
