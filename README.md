@@ -53,6 +53,7 @@
 </p>
 
 <h3 align="center">🔍 Featured Project:</h3>
+
 <p align="center">
   <a href="https://github.com/Josedoria93/sql_project" target="_blank">
     <img src="https://img.shields.io/badge/SQL_Project-007ACC?style=for-the-badge&logo=github&logoColor=white" alt="SQL Project"/>
@@ -61,21 +62,22 @@
   <a href="https://github.com/Josedoria93/sql_project" target="_blank">
     <strong>SQL Project: Optimización y Gestión Integral de Operaciones en una Ferretería</strong>
   </a>
-  <p align="center">
-    📊 **Overview:** This project focuses on the optimization and comprehensive management of operations in a hardware store. It demonstrates my ability to enhance operational efficiency and data management through advanced SQL techniques.
-    <br>
-    🛠️ **Key Technologies:**
-    <br>
-    <a href="https://www.mysql.com/" target="_blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="30" height="30"/>
-    </a>
-    <a href="https://code.visualstudio.com/" target="_blank">
-      <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="Visual Studio Code" width="30" height="30"/>
-    </a>
-    <a href="https://postimages.org/" target="_blank">
-      <img src="https://postimg.cc/4g39sGRJ" alt="Postimage" width="30" height="30"/>
-    </a>
-  </p>
+</p>
+
+<p align="center">
+  📊 <strong>Overview:</strong> Este proyecto se centra en la optimización y gestión integral de las operaciones en una ferretería. Muestra mi capacidad para mejorar la eficiencia operativa y la gestión de datos a través de técnicas avanzadas de SQL.
+  <br><br>
+  🛠️ <strong>Key Technologies:</strong>
+  <br>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="30" height="30"/>
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="Visual Studio Code" width="30" height="30"/>
+  </a>
+  <a href="https://postimages.org/" target="_blank">
+    <img src="https://postimg.cc/4g39sGRJ" alt="Postimage" width="30" height="30"/>
+  </a>
 </p>
 
 
