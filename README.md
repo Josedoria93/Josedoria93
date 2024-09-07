@@ -32,13 +32,13 @@
     <img src="https://d11wkw82a69pyn.cloudfront.net/wm-reply/siteassets/images/power%20bi.png" alt="Power BI" width="43" height="40"/>
   </a>
   <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://www.svgrepo.com/show/303623/visual-studio-code-logo.svg" alt="Visual Studio Code" width="40" height="40"/>
+    <img src="https://www.svgrepo.com/show/303623/visual-studio-code-logo.svg" alt="Visual Studio Code" width="45" height="45"/>
   </a>
   <a href="https://github.com/" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" width="45" height="45"/>
   </a>
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
-    <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Microsoft Excel" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Microsoft Excel" width="45" height="45"/>
   </a>
 </p>
 
