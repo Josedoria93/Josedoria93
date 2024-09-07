@@ -35,7 +35,7 @@
     <img src="https://img-primrose.blogspot.com/2021/06/visual-studio-code-logo-jpg.html" alt="Visual Studio Code" width="50" height="50"/>
   </a>
   <a href="https://github.com/" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" width="55" height="55"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" width="55" height="40"/>
   </a>
  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
     <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Microsoft Excel"/>
