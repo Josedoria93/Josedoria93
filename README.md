@@ -31,8 +31,8 @@
   <a href="https://powerbi.microsoft.com/en-us/" target="_blank">
     <img src="https://d11wkw82a69pyn.cloudfront.net/wm-reply/siteassets/images/power%20bi.png" alt="Power BI" width="43" height="40"/>
   </a>
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://www.svgrepo.com/show/303623/visual-studio-code-logo.svg" alt="Visual Studio Code" width="48" height="48"/>
+   <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://img-primrose.blogspot.com/2021/06/visual-studio-code-logo-jpg.html" alt="Visual Studio Code" width="50" height="50"/>
   </a>
   <a href="https://github.com/" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" width="50" height="50"/>
