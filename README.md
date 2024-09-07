@@ -65,7 +65,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>Overview:</strong> Este proyecto se centra en la optimización y gestión integral de las operaciones en una ferretería. Muestra mi capacidad para mejorar la eficiencia operativa y la gestión de datos a través de técnicas avanzadas de SQL.
+  📊 <strong>Overview:</strong> This project focuses on the optimization and comprehensive management of operations in a hardware store. It demonstrates my ability to enhance operational efficiency and data management through advanced SQL techniques.
   <br><br>
   🛠️ <strong>Key Technologies:</strong>
   <br>
