@@ -63,9 +63,9 @@
 ### SQL Project: Optimización y Gestión Integral de Operaciones en una Ferretería
 
 <p align="center">
-  📊 **Overview:** This project focuses on the optimization and comprehensive management of operations in a hardware store. It demonstrates my ability to enhance operational efficiency and data management through advanced SQL techniques.
+  📊 Overview: This project focuses on the optimization and comprehensive management of operations in a hardware store. It demonstrates my ability to enhance operational efficiency and data management through advanced SQL techniques.
   <br><br>
-  🛠️ **Key Technologies:**
+  🛠️ Key Technologies:
   <br>
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
