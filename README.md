@@ -20,7 +20,8 @@
 
 <hr>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center"> 
+🤖 Languages and Tools:</h3>
 <p align="center">
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="50" height="50"/>
