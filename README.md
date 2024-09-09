@@ -2,7 +2,7 @@
   <h1 align="center">Welcome to <a href="https://github.com/Josedoria93">Jose Doria's Profile</a> 👋</h1>
   <p align="center">
     <a href="https://github.com/DenverCoder1/readme-typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;Business+Administrator+specialized+in+Business+Intelligence/>
+      <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;Business+Administrator+specialized+in+Business+Intelligence;Currently+learning+SQL+and+Power+BI" />
     </a>
   </p>
 </p>
@@ -11,17 +11,16 @@
   <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="animated-gif">
 </p>
 <p align="center">
- 👋 Hi, I’m Jose Luis Doria, a Business Administrator specializing in Business Intelligence. I am passionate about transforming data into actionable insights. Currently, I’m honing my skills in <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">SQL</a> and <a href="https://powerbi.microsoft.com/" target="_blank">Power BI</a>.
+  Hi, I’m Jose Luis Doria, a Business Administrator specializing in Business Intelligence. I am passionate about transforming data into actionable insights. Currently, I’m honing my skills in <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">SQL</a> and <a href="https://powerbi.microsoft.com/" target="_blank">Power BI</a>.
 </p>
 <ul>
-  <li>🎒 I’m studying  Data Analytics and Python..</li>
+  <li>❤️ I enjoy creating databases and developing dashboards to support business decisions.</li>
   <li>🌱 I'm continuously learning and expanding my expertise in data analysis and visualization tools.</li>
 </ul>
 
 <hr>
 
-<h3 align="center"> 
-🤖 Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="50" height="50"/>
@@ -82,7 +81,6 @@
     <img src="https://img.shields.io/badge/Explore%20Project-Click%20Here-brightgreen?style=flat&logo=github" alt="Explore Project"/>
   </a>
 </p>
-
 
 
 
