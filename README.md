@@ -2,7 +2,7 @@
   <h1 align="center">Welcome to <a href="https://github.com/Josedoria93">Jose Doria's Profile</a> 👋</h1>
   <p align="center">
     <a href="https://github.com/DenverCoder1/readme-typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;Business+Administrator+specialized+in+Business+Intelligence;Currently+learning+SQL+and+Power+BI" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;Business+Administrator+specialized+in+Business+Intelligence/>
     </a>
   </p>
 </p>
