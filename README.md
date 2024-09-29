@@ -84,9 +84,7 @@
 </p>
 
 ## 🎓 Certifications
-<p align="center">
-   Power BI Nivel Principiante:(https://app.kajabi.com/certificates/c5c14003).
-</p>
+<p align="center"> <a href="https://app.kajabi.com/certificates/c5c14003" target="_blank"> <img src="https://img.shields.io/badge/Power_BI_Beginner-0078D4?style=for-the-badge&logo=Microsoft-Power-BI&logoColor=white" alt="Power BI Beginner Certificate" height="40"> </a> </p> <p align="center"> 📜 **Power BI Nivel Principiante** An introductory course to Power BI, focusing on data visualization and reporting techniques. </p>
 
 
 
