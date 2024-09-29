@@ -85,7 +85,7 @@
 
 ## 🎓 Certifications
 <p align="center">
-  You can view my completed certifications [here](https://app.kajabi.com/certificates/c5c14003).
+  I have completed the **Curso Power BI Nivel Principiante**. You can view my certification [here](https://app.kajabi.com/certificates/c5c14003).
 </p>
 
 
