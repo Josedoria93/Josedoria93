@@ -86,11 +86,14 @@
 ## 🎓 Certifications
 
 <p align="center">
-  <a href="https://www.coderhouse.com/co/certificados/66e1e67b30a56410b56854d7?lang=es" target="_blank">
-    <img src="https://img.shields.io/badge/Power_BI%20Nivel%20Principiante-007ACC?style=for-the-badge&logo=Microsoft%20Power%20BI&logoColor=white" alt="Power BI Certification" />
+  <a href="https://app.kajabi.com/certificates/c5c14003" target="_blank">
+    <img src="https://img.shields.io/badge/Power_BI%20Nivel%20Principiante-007ACC?style=for-the-badge&logo=Microsoft%20Power%20BI&logoColor=white" alt="Power BI Nivel Principiante Certification" />
   </a>
   <a href="https://www.coderhouse.com/co/certificados/66cf1e7a202ee828ef4ebae8?lang=es" target="_blank">
     <img src="https://img.shields.io/badge/SQL%20Certification-007ACC?style=for-the-badge&logo=MySQL&logoColor=white" alt="SQL Certification" />
+  </a>
+  <a href="https://www.coderhouse.com/co/certificados/66e1e67b30a56410b56854d7?lang=es" target="_blank">
+    <img src="https://img.shields.io/badge/Power_BI%20Certification-007ACC?style=for-the-badge&logo=Microsoft%20Power%20BI&logoColor=white" alt="Power BI Certification" />
   </a>
 </p>
 
@@ -98,7 +101,7 @@
   📜 **Power BI Nivel Principiante** 
   <br> Successfully completed an introductory course in Power BI, focusing on data visualization and analytics.
   <br><br>
-  🔗 [View Power BI Certificate](https://www.coderhouse.com/co/certificados/66e1e67b30a56410b56854d7?lang=es)
+  🔗 [View Power BI Nivel Principiante Certificate](https://app.kajabi.com/certificates/c5c14003)
 </p>
 
 <p align="center">
@@ -106,6 +109,13 @@
   <br> Completed a course in SQL, enhancing skills in database management and data manipulation.
   <br><br>
   🔗 [View SQL Certificate](https://www.coderhouse.com/co/certificados/66cf1e7a202ee828ef4ebae8?lang=es)
+</p>
+
+<p align="center">
+  📜 **Power BI Certification** 
+  <br> Completed an advanced course in Power BI, deepening knowledge in data analytics and reporting.
+  <br><br>
+  🔗 [View Power BI Certificate](https://www.coderhouse.com/co/certificados/66e1e67b30a56410b56854d7?lang=es)
 </p>
 
 
