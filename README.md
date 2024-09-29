@@ -83,7 +83,10 @@
   </a>
 </p>
 
-
+## 🎓 Certifications
+<p align="center">
+  You can view my completed certifications [here](https://app.kajabi.com/certificates/c5c14003).
+</p>
 
 
 
