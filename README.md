@@ -84,7 +84,19 @@
 </p>
 
 ## 🎓 Certifications
-<p align="center"> <a href="https://app.kajabi.com/certificates/c5c14003" target="_blank"> <img src="https://img.shields.io/badge/Power_BI_Beginner-0078D4?style=for-the-badge&logo=Microsoft-Power-BI&logoColor=white" alt="Power BI Beginner Certificate" height="40"> </a> </p> <p align="center"> 📜 **Power BI Nivel Principiante** An introductory course to Power BI, focusing on data visualization and reporting techniques. </p>
+
+<p align="center">
+  <a href="https://app.kajabi.com/certificates/c5c14003" target="_blank">
+    <img src="https://img.shields.io/badge/Power_BI%20Nivel%20Principiante-007ACC?style=for-the-badge&logo=Microsoft%20Power%20BI&logoColor=white" alt="Power BI Certification" />
+  </a>
+</p>
+<p align="center">
+  📜 **Power BI Nivel Principiante** 
+  <br> Successfully completed an introductory course in Power BI, focusing on data visualization and analytics.
+  <br><br>
+  🔗 [View Certificate](https://app.kajabi.com/certificates/c5c14003)
+</p>
+
 
 
 
