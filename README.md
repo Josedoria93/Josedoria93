@@ -95,6 +95,9 @@
   <a href="https://www.coderhouse.com/co/certificados/66e1e67b30a56410b56854d7?lang=es" target="_blank">
     <img src="https://img.shields.io/badge/Power_BI%20Certification-007ACC?style=for-the-badge&logo=Microsoft%20Power%20BI&logoColor=white" alt="Power BI Certification" />
   </a>
+  <a href="https://www.coursera.org/account/accomplishments/verify/5GGZEF6HEMN0?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course" target="_blank">
+    <img src="https://img.shields.io/badge/Aspectos_Básicos_%20de%20Datos-007ACC?style=for-the-badge&logo=Coursera&logoColor=white" alt="Basic Data Course Certification" />
+  </a>
 </p>
 
 <p align="center">
@@ -117,6 +120,14 @@
   <br><br>
   🔗 [View Power BI Certificate](https://www.coderhouse.com/co/certificados/66e1e67b30a56410b56854d7?lang=es)
 </p>
+
+<p align="center">
+  📜 **Aspectos Básicos de Datos** 
+  <br> Completed a course on the fundamentals of data, covering key concepts and applications.
+  <br><br>
+  🔗 [View Data Basics Certificate](https://www.coursera.org/account/accomplishments/verify/5GGZEF6HEMN0?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
+</p>
+
 
 
 
