@@ -85,63 +85,34 @@
 
 ## 🎓 Certifications
 
-<p align="center">
-  <a href="https://app.kajabi.com/certificates/c5c14003" target="_blank">
-    <img src="https://img.shields.io/badge/Power_BI%20Nivel%20Principiante-007ACC?style=for-the-badge&logo=Microsoft%20Power%20BI&logoColor=white" alt="Power BI Nivel Principiante Certification" />
-  </a>
-  <a href="https://www.coderhouse.com/co/certificados/66cf1e7a202ee828ef4ebae8?lang=es" target="_blank">
-    <img src="https://img.shields.io/badge/SQL%20Certification-007ACC?style=for-the-badge&logo=MySQL&logoColor=white" alt="SQL Certification" />
-  </a>
-  <a href="https://www.coderhouse.com/co/certificados/66e1e67b30a56410b56854d7?lang=es" target="_blank">
-    <img src="https://img.shields.io/badge/Power_BI%20Certification-007ACC?style=for-the-badge&logo=Microsoft%20Power%20BI&logoColor=white" alt="Power BI Certification" />
-  </a>
-  <a href="https://www.coursera.org/account/accomplishments/verify/5GGZEF6HEMN0?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course" target="_blank">
-    <img src="https://img.shields.io/badge/Aspectos_Básicos_%20de%20Datos-007ACC?style=for-the-badge&logo=Coursera&logoColor=white" alt="Basic Data Course Certification" />
-  </a>
-  <a href="https://postimg.cc/QVBZgy5S" target="_blank">
-    <img src="https://img.shields.io/badge/Construcción_Bases_de_Datos_MySQL-007ACC?style=for-the-badge&logo=MySQL&logoColor=white" alt="MySQL Database Construction" />
-  </a>
-</p>
+### Power BI Nivel Principiante
+- **Descripción**: Successfully completed an introductory course in Power BI, focusing on data visualization and analytics.
+- **Certificado**: [View Certificate](https://app.kajabi.com/certificates/c5c14003)
 
 ---
 
-<p align="center">
-  <strong>📜 Power BI Nivel Principiante</strong> 
-  <br> Successfully completed an introductory course in Power BI, focusing on data visualization and analytics.
-  <br> 🔗 [View Certificate](https://app.kajabi.com/certificates/c5c14003)
-</p>
+### SQL Certification
+- **Descripción**: Completed a course in SQL, enhancing skills in database management and data manipulation.
+- **Certificado**: [View Certificate](https://www.coderhouse.com/co/certificados/66cf1e7a202ee828ef4ebae8?lang=es)
 
 ---
 
-<p align="center">
-  <strong>📜 SQL Certification</strong> 
-  <br> Completed a course in SQL, enhancing skills in database management and data manipulation.
-  <br> 🔗 [View Certificate](https://www.coderhouse.com/co/certificados/66cf1e7a202ee828ef4ebae8?lang=es)
-</p>
+### Power BI Certification
+- **Descripción**: Completed an advanced course in Power BI, deepening knowledge in data analytics and reporting.
+- **Certificado**: [View Certificate](https://www.coderhouse.com/co/certificados/66e1e67b30a56410b56854d7?lang=es)
 
 ---
 
-<p align="center">
-  <strong>📜 Power BI Certification</strong> 
-  <br> Completed an advanced course in Power BI, deepening knowledge in data analytics and reporting.
-  <br> 🔗 [View Certificate](https://www.coderhouse.com/co/certificados/66e1e67b30a56410b56854d7?lang=es)
-</p>
+### Aspectos Básicos de Datos
+- **Descripción**: Completed a course on the fundamentals of data, covering key concepts and applications.
+- **Certificado**: [View Certificate](https://www.coursera.org/account/accomplishments/verify/5GGZEF6HEMN0?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
 
 ---
 
-<p align="center">
-  <strong>📜 Aspectos Básicos de Datos</strong> 
-  <br> Completed a course on the fundamentals of data, covering key concepts and applications.
-  <br> 🔗 [View Certificate](https://www.coursera.org/account/accomplishments/verify/5GGZEF6HEMN0?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
-</p>
+### Construcción de Bases de Datos con MySQL
+- **Descripción**: Completed a course focused on building databases using MySQL.
+- **Certificado**: [View Certificate](https://postimg.cc/QVBZgy5S)
 
----
-
-<p align="center">
-  <strong>📜 Construcción de Bases de Datos con MySQL</strong> 
-  <br> Completed a course focused on building databases using MySQL.
-  <br> 🔗 [View Certificate](https://postimg.cc/QVBZgy5S)
-</p>
 
 
 
