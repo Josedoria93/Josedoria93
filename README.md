@@ -98,9 +98,6 @@
   <a href="https://www.coursera.org/account/accomplishments/verify/5GGZEF6HEMN0?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course" target="_blank">
     <img src="https://img.shields.io/badge/Aspectos_Básicos_%20de%20Datos-007ACC?style=for-the-badge&logo=Coursera&logoColor=white" alt="Basic Data Course Certification" />
   </a>
-  <a href="https://postimg.cc/QVBZgy5S" target="_blank">
-    <img src="https://i.postimg.cc/v8h8yRmR/Construcci-n-de-bases-de-datos-con-MYSQL.png" alt="Construcción de bases de datos con MySQL" width="150"/>
-  </a>
 </p>
 
 <p align="center">
