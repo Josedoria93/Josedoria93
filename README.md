@@ -113,6 +113,13 @@
 - **Descripción**: Completed a course focused on building databases using MySQL.
 - **Certificado**: [View Certificate](https://postimg.cc/QVBZgy5S)
 
+---
+
+### SQL Desde Cero a Experto
+- **Descripción**: Completed a comprehensive course in SQL, advancing skills from beginner to expert level.
+- **Certificado**: [View Certificate](https://postimg.cc/N9Kg9rv7)  
+![SQL Desde Cero a Experto](https://i.postimg.cc/XJ8XPw2h/SQL-DESDE-CERO-A-EXPERTO.png)
+
 
 
 
