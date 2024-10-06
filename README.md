@@ -119,6 +119,9 @@
 - **Descripción**: Completed a comprehensive course in SQL, advancing skills from beginner to expert level.
 - **Certificado**: [View Certificate](https://postimg.cc/N9Kg9rv7)  
 
+### Bases de Datos: Generalidades y Sistemas de Gestión
+- **Descripción**: Completed a course covering general concepts of databases and various management systems.
+- **Certificado**: [View Certificate](https://postimg.cc/RWS90LJn)
 
 
 
