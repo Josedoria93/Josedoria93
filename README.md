@@ -67,7 +67,7 @@
 ### SQL Project: Optimización y Gestión Integral de Operaciones en una Ferretería
 
 <p align="center">
-  📊 **Overview**: This project focuses on the optimization and comprehensive management of operations in a hardware store. I implemented advanced SQL techniques to enhance operational efficiency and improve data management. The project resulted in a 20% increase in inventory turnover and reduced order processing time by 15%.
+  📊 **Overview**: This project focuses on the optimization and comprehensive management of operations in a hardware store. I implemented advanced SQL techniques to enhance operational efficiency and improve data management. 
   <br><br>
   🛠️ **Key Technologies**:
   <br>
