@@ -86,46 +86,50 @@
 ## 🎓 Certifications
 
 ### Power BI Nivel Principiante
-- **Descripción**: Successfully completed an introductory course in Power BI, focusing on data visualization and analytics.
-- **Certificado**: [View Certificate](https://app.kajabi.com/certificates/c5c14003)
+- **Description**: Successfully completed an introductory course in Power BI, focusing on data visualization and analytics.
+- **Certificate**: [View Certificate](https://app.kajabi.com/certificates/c5c14003)
 
 ---
 
 ### SQL Certification
-- **Descripción**: Completed a course in SQL, enhancing skills in database management and data manipulation.
-- **Certificado**: [View Certificate](https://www.coderhouse.com/co/certificados/66cf1e7a202ee828ef4ebae8?lang=es)
+- **Description**: Completed a course in SQL, enhancing skills in database management and data manipulation.
+- **Certificate**: [View Certificate](https://www.coderhouse.com/co/certificados/66cf1e7a202ee828ef4ebae8?lang=es)
 
 ---
 
 ### Power BI Certification
-- **Descripción**: Completed an advanced course in Power BI, deepening knowledge in data analytics and reporting.
-- **Certificado**: [View Certificate](https://www.coderhouse.com/co/certificados/66e1e67b30a56410b56854d7?lang=es)
+- **Description**: Completed an advanced course in Power BI, deepening knowledge in data analytics and reporting.
+- **Certificate**: [View Certificate](https://www.coderhouse.com/co/certificados/66e1e67b30a56410b56854d7?lang=es)
 
 ---
 
 ### Aspectos Básicos de Datos
-- **Descripción**: Completed a course on the fundamentals of data, covering key concepts and applications.
-- **Certificado**: [View Certificate](https://www.coursera.org/account/accomplishments/verify/5GGZEF6HEMN0?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
+- **Description**: Completed a course on the fundamentals of data, covering key concepts and applications.
+- **Certificate**: [View Certificate](https://www.coursera.org/account/accomplishments/verify/5GGZEF6HEMN0?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
 
 ---
 
 ### Construcción de Bases de Datos con MySQL
-- **Descripción**: Completed a course focused on building databases using MySQL.
-- **Certificado**: [View Certificate](https://postimg.cc/QVBZgy5S)
+- **Description**: Completed a course focused on building databases using MySQL.
+- **Certificate**: [View Certificate](https://postimg.cc/QVBZgy5S)
 
 ---
 
 ### SQL Desde Cero a Experto
-- **Descripción**: Completed a comprehensive course in SQL, advancing skills from beginner to expert level.
-- **Certificado**: [View Certificate](https://postimg.cc/N9Kg9rv7)  
+- **Description**: Completed a comprehensive course in SQL, advancing skills from beginner to expert level.
+- **Certificate**: [View Certificate](https://postimg.cc/N9Kg9rv7)  
 
 ---
 
 ### Bases de Datos: Generalidades y Sistemas de Gestión
-- **Descripción**: Completed a course covering general concepts of databases and various management systems.
-- **Certificado**: [View Certificate](https://postimg.cc/RWS90LJn)
+- **Description**: Completed a course covering general concepts of databases and various management systems.
+- **Certificate**: [View Certificate](https://postimg.cc/RWS90LJn)
 
+---
 
+### Curso: Especialización en Power Query
+- **Description**: Completed a specialization course in Power Query, focusing on data transformation and preparation techniques.
+- **Certificate**: [View Certificate](https://app.kajabi.com/certificates/7402fc26)
 
 
 
