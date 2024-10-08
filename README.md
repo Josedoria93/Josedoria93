@@ -14,14 +14,13 @@
   Hi, I’m Jose Luis Doria, a Business Administrator specializing in Business Intelligence. I am passionate about transforming data into actionable insights. Currently, I’m honing my skills in <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">SQL</a> and <a href="https://powerbi.microsoft.com/" target="_blank">Power BI</a>.
 </p>
 <ul>
-  <li>🎒 I’m studying  Data Analytics and Python.</li>
+  <li>🎒 I’m studying Data Analytics and Python.</li>
   <li>🌱 I'm continuously learning and expanding my expertise in data analysis and visualization tools.</li>
 </ul>
 
 <hr>
 
-<h3 align="center">
-🤖 Languages and Tools:</h3>
+<h3 align="center">🤖 Languages and Tools:</h3>
 <p align="center">
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="50" height="50"/>
@@ -130,6 +129,7 @@
 ### Curso: Especialización en Power Query
 - **Description**: Completed a specialization course in Power Query, focusing on data transformation and preparation techniques.
 - **Certificate**: [View Certificate](https://app.kajabi.com/certificates/7402fc26)
+
 
 
 
