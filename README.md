@@ -6,17 +6,22 @@
 </a>
 </p>
 </p>
+
 <p align="center">
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="animated-gif">
 </p>
+
 <p align="center">
 Hi, I’m Jose Luis Doria, a Business Administrator specializing in Business Intelligence. I am passionate about transforming data into actionable insights. Currently, I’m honing my skills in <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">SQL</a> and <a href="https://powerbi.microsoft.com/" target="_blank">Power BI</a>.
 </p>
+
 <ul>
 <li>🎒 I’m studying Data Analytics and Python.</li>
 <li>🌱 I'm continuously learning and expanding my expertise in data analysis and visualization tools.</li>
 </ul>
+
 <hr>
+
 <h3 align="center"><strong>🤖 Languages and Tools:</strong></h3>
 <p align="center">
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
@@ -38,7 +43,9 @@ Hi, I’m Jose Luis Doria, a Business Administrator specializing in Business Int
 <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Microsoft Excel"/>
 </a>
 </p>
+
 <hr>
+
 <h3 align="center"><strong>Get in Touch:</strong></h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/josedoriap/" target="_blank">
@@ -48,13 +55,16 @@ Hi, I’m Jose Luis Doria, a Business Administrator specializing in Business Int
 <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" height=35>
 </a>
 </p>
+
 <hr>
+
 ## 🔍 <strong>Featured Project</strong>
 <p align="center">
 <a href="https://github.com/Josedoria93/sql_project" target="_blank">
 <img src="https://img.shields.io/badge/SQL_Project-007ACC?style=for-the-badge&logo=github&logoColor=white" alt="SQL Project"/>
 </a>
 </p>
+
 ### SQL Project: Optimización y Gestión Integral de Operaciones en una Ferretería
 <p align="center">
 📊 **Overview**: This project focuses on the optimization and comprehensive management of operations in a hardware store. I implemented advanced SQL techniques to enhance operational efficiency and improve data management. 
@@ -72,66 +82,43 @@ Hi, I’m Jose Luis Doria, a Business Administrator specializing in Business Int
 <img src="https://img.shields.io/badge/Explore%20Project-Click%20Here-brightgreen?style=flat&logo=github" alt="Explore Project"/>
 </a>
 </p>
+
 <hr>
 
 ## 🎓 <strong>Certifications</strong>
-
 ### Power BI Nivel Principiante
 - **Description**: Successfully completed an introductory course in Power BI, focusing on data visualization and analytics. This certification has helped me create more effective dashboards.
 - **Certificate**: [View Certificate](https://app.kajabi.com/certificates/c5c14003)
-
-  
----
-
 
 ### SQL Certification
 - **Description**: Completed a course in SQL, enhancing skills in database management and data manipulation. This certification improved my ability to query and manage data effectively.
 - **Certificate**: [View Certificate](https://www.coderhouse.com/co/certificados/66cf1e7a202ee828ef4ebae8?lang=es)
 
-  
----
-
-
 ### Power BI Certification
 - **Description**: Completed an advanced course in Power BI, deepening knowledge in data analytics and reporting. This has enabled me to build more complex reports and analytics solutions.
 - **Certificate**: [View Certificate](https://www.coderhouse.com/co/certificados/66e1e67b30a56410b56854d7?lang=es)
----
+
 ### Aspectos Básicos de Datos
 - **Description**: Completed a course on the fundamentals of data, covering key concepts and applications. This knowledge has been essential in my data analysis work.
 - **Certificate**: [View Certificate](https://www.coursera.org/account/accomplishments/verify/5GGZEF6HEMN0?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
-
-
----
-
 
 ### Construcción de Bases de Datos con MySQL
 - **Description**: Completed a course focused on building databases using MySQL. This course has significantly enhanced my database design skills.
 - **Certificate**: [View Certificate](https://postimg.cc/QVBZgy5S)
 
-
----
-
-
 ### SQL Desde Cero a Experto
 - **Description**: Completed a comprehensive course in SQL, advancing skills from beginner to expert level. This has given me a strong foundation in database management.
 - **Certificate**: [View Certificate](https://postimg.cc/N9Kg9rv7)
-
-
----
-
 
 ### Bases de Datos: Generalidades y Sistemas de Gestión
 - **Description**: Completed a course covering general concepts of databases and various management systems. This knowledge has been vital in understanding different database technologies.
 - **Certificate**: [View Certificate](https://postimg.cc/RWS90LJn)
 
-
----
-
-
 ### Curso: Especialización en Power Query
 - **Description**: Completed a specialization course in Power Query, focusing on data transformation and preparation techniques. This certification has improved my data cleaning skills significantly.
 - **Certificate**: [View Certificate](https://app.kajabi.com/certificates/7402fc26)
 
+---
 
 
 
