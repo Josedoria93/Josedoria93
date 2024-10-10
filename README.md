@@ -76,7 +76,9 @@ Hi, I’m Jose Luis Doria, a Business Administrator specializing in Business Int
 ### SQL Project: Optimización y Gestión Integral de Operaciones en una Ferretería
 <p align="center">
 📊 **Overview**: This project focuses on the optimization and comprehensive management of operations in a hardware store. 
+  
 - **Challenge**: Inefficient inventory management resulting in losses.
+  
 - **Solution**: I implemented a SQL-based inventory management system that optimizes stock levels.
 
 <br><br>
