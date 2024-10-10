@@ -22,11 +22,11 @@ Hi, I’m Jose Luis Doria, a Business Administrator specializing in Business Int
 
 <hr>
 
-## 💪 Habilidades
-- **Análisis de Datos**: Capacidad para interpretar y extraer insights de grandes conjuntos de datos.
-- **Visualización de Datos**: Creación de dashboards y reportes efectivos con herramientas como Power BI.
-- **Gestión de Bases de Datos**: Experiencia en SQL y MySQL para el manejo y optimización de bases de datos.
-- **Desarrollo de Soluciones**: Implementación de soluciones basadas en datos para mejorar la eficiencia operativa.
+## 💪 Skills
+- **Data Analysis**: Ability to interpret and extract insights from large datasets.
+- **Data Visualization**: Creation of effective dashboards and reports using tools like Power BI.
+- **Database Management**: Experience in SQL and MySQL for handling and optimizing databases.
+- **Solution Development**: Implementation of data-driven solutions to improve operational efficiency.
 
 <hr>
 
@@ -76,9 +76,9 @@ Hi, I’m Jose Luis Doria, a Business Administrator specializing in Business Int
 ### SQL Project: Optimización y Gestión Integral de Operaciones en una Ferretería
 <p align="center">
 📊 **Overview**: This project focuses on the optimization and comprehensive management of operations in a hardware store. 
-- **Desafío**: La gestión ineficiente de inventario que resultaba en pérdidas.
-- **Solución**: Implementé un sistema de gestión de inventario basado en SQL que optimiza los niveles de stock.
-- **Resultados**: Aumento del 20% en la eficiencia operativa en el primer trimestre.
+- **Challenge**: Inefficient inventory management resulting in losses.
+- **Solution**: I implemented a SQL-based inventory management system that optimizes stock levels.
+
 <br><br>
 🛠️ **Key Technologies**:
 <br>
