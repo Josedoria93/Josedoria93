@@ -22,6 +22,14 @@ Hi, I’m Jose Luis Doria, a Business Administrator specializing in Business Int
 
 <hr>
 
+## 💪 Habilidades
+- **Análisis de Datos**: Capacidad para interpretar y extraer insights de grandes conjuntos de datos.
+- **Visualización de Datos**: Creación de dashboards y reportes efectivos con herramientas como Power BI.
+- **Gestión de Bases de Datos**: Experiencia en SQL y MySQL para el manejo y optimización de bases de datos.
+- **Desarrollo de Soluciones**: Implementación de soluciones basadas en datos para mejorar la eficiencia operativa.
+
+<hr>
+
 <h3 align="center"><strong>🤖 Languages and Tools:</strong></h3>
 <p align="center">
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
@@ -67,7 +75,10 @@ Hi, I’m Jose Luis Doria, a Business Administrator specializing in Business Int
 
 ### SQL Project: Optimización y Gestión Integral de Operaciones en una Ferretería
 <p align="center">
-📊 **Overview**: This project focuses on the optimization and comprehensive management of operations in a hardware store. I implemented advanced SQL techniques to enhance operational efficiency and improve data management. 
+📊 **Overview**: This project focuses on the optimization and comprehensive management of operations in a hardware store. 
+- **Desafío**: La gestión ineficiente de inventario que resultaba en pérdidas.
+- **Solución**: Implementé un sistema de gestión de inventario basado en SQL que optimiza los niveles de stock.
+- **Resultados**: Aumento del 20% en la eficiencia operativa en el primer trimestre.
 <br><br>
 🛠️ **Key Technologies**:
 <br>
@@ -85,40 +96,48 @@ Hi, I’m Jose Luis Doria, a Business Administrator specializing in Business Int
 
 <hr>
 
-## 🎓 <strong>Certifications</strong>
-### Power BI Nivel Principiante
-- **Description**: Successfully completed an introductory course in Power BI, focusing on data visualization and analytics. This certification has helped me create more effective dashboards.
-- **Certificate**: [View Certificate](https://app.kajabi.com/certificates/c5c14003)
+## 🎓 <strong>Certificaciones</strong>
 
-### SQL Certification
-- **Description**: Completed a course in SQL, enhancing skills in database management and data manipulation. This certification improved my ability to query and manage data effectively.
-- **Certificate**: [View Certificate](https://www.coderhouse.com/co/certificados/66cf1e7a202ee828ef4ebae8?lang=es)
+### Business Intelligence
+- **Power BI Nivel Principiante**: 
+  - **Descripción**: Successfully completed an introductory course in Power BI, focusing on data visualization and analytics. This certification has helped me create more effective dashboards.
+  - **Certificate**: [View Certificate](https://app.kajabi.com/certificates/c5c14003)
+  
+- **Power BI Certification**: 
+  - **Descripción**: Completed an advanced course in Power BI, deepening knowledge in data analytics and reporting. This has enabled me to build more complex reports and analytics solutions.
+  - **Certificate**: [View Certificate](https://www.coderhouse.com/co/certificados/66e1e67b30a56410b56854d7?lang=es)
 
-### Power BI Certification
-- **Description**: Completed an advanced course in Power BI, deepening knowledge in data analytics and reporting. This has enabled me to build more complex reports and analytics solutions.
-- **Certificate**: [View Certificate](https://www.coderhouse.com/co/certificados/66e1e67b30a56410b56854d7?lang=es)
+### SQL
+- **SQL Certification**: 
+  - **Descripción**: Completed a course in SQL, enhancing skills in database management and data manipulation. This certification improved my ability to query and manage data effectively.
+  - **Certificate**: [View Certificate](https://www.coderhouse.com/co/certificados/66cf1e7a202ee828ef4ebae8?lang=es)
 
-### Aspectos Básicos de Datos
-- **Description**: Completed a course on the fundamentals of data, covering key concepts and applications. This knowledge has been essential in my data analysis work.
-- **Certificate**: [View Certificate](https://www.coursera.org/account/accomplishments/verify/5GGZEF6HEMN0?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
+- **SQL Desde Cero a Experto**: 
+  - **Descripción**: Completed a comprehensive course in SQL, advancing skills from beginner to expert level. This has given me a strong foundation in database management.
+  - **Certificate**: [View Certificate](https://postimg.cc/N9Kg9rv7)
 
-### Construcción de Bases de Datos con MySQL
-- **Description**: Completed a course focused on building databases using MySQL. This course has significantly enhanced my database design skills.
-- **Certificate**: [View Certificate](https://postimg.cc/QVBZgy5S)
+### Fundamentos de Datos
+- **Aspectos Básicos de Datos**: 
+  - **Descripción**: Completed a course on the fundamentals of data, covering key concepts and applications. This knowledge has been essential in my data analysis work.
+  - **Certificate**: [View Certificate](https://www.coursera.org/account/accomplishments/verify/5GGZEF6HEMN0?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
 
-### SQL Desde Cero a Experto
-- **Description**: Completed a comprehensive course in SQL, advancing skills from beginner to expert level. This has given me a strong foundation in database management.
-- **Certificate**: [View Certificate](https://postimg.cc/N9Kg9rv7)
+- **Bases de Datos: Generalidades y Sistemas de Gestión**: 
+  - **Descripción**: Completed a course covering general concepts of databases and various management systems. This knowledge has been vital in understanding different database technologies.
+  - **Certificate**: [View Certificate](https://postimg.cc/RWS90LJn)
 
-### Bases de Datos: Generalidades y Sistemas de Gestión
-- **Description**: Completed a course covering general concepts of databases and various management systems. This knowledge has been vital in understanding different database technologies.
-- **Certificate**: [View Certificate](https://postimg.cc/RWS90LJn)
+### MySQL
+- **Construcción de Bases de Datos con MySQL**: 
+  - **Descripción**: Completed a course focused on building databases using MySQL. This course has significantly enhanced my database design skills.
+  - **Certificate**: [View Certificate](https://postimg.cc/QVBZgy5S)
 
-### Curso: Especialización en Power Query
-- **Description**: Completed a specialization course in Power Query, focusing on data transformation and preparation techniques. This certification has improved my data cleaning skills significantly.
-- **Certificate**: [View Certificate](https://app.kajabi.com/certificates/7402fc26)
+### Power Query
+- **Curso: Especialización en Power Query**: 
+  - **Descripción**: Completed a specialization course in Power Query, focusing on data transformation and preparation techniques. This certification has improved my data cleaning skills significantly.
+  - **Certificate**: [View Certificate](https://app.kajabi.com/certificates/7402fc26)
 
 ---
+
+> Este perfil se actualiza regularmente con nuevos proyectos y certificaciones. Si tienes preguntas o quieres colaborar, no dudes en contactarme. 🚀
 
 
 
