@@ -106,6 +106,11 @@ Hi, I’m Jose Luis Doria, a Business Administrator specializing in Business Int
 - **Power BI Certification**: 
   - **Descripción**: Completed an advanced course in Power BI, deepening knowledge in data analytics and reporting. This has enabled me to build more complex reports and analytics solutions.
   - **Certificate**: [View Certificate](https://www.coderhouse.com/co/certificados/66e1e67b30a56410b56854d7?lang=es)
+ 
+### Power Query
+- **Curso: Especialización en Power Query**: 
+  - **Descripción**: Completed a specialization course in Power Query, focusing on data transformation and preparation techniques. This certification has improved my data cleaning skills significantly.
+  - **Certificate**: [View Certificate](https://app.kajabi.com/certificates/7402fc26)
 
 ### SQL
 - **SQL Certification**: 
@@ -130,10 +135,6 @@ Hi, I’m Jose Luis Doria, a Business Administrator specializing in Business Int
   - **Descripción**: Completed a course focused on building databases using MySQL. This course has significantly enhanced my database design skills.
   - **Certificate**: [View Certificate](https://postimg.cc/QVBZgy5S)
 
-### Power Query
-- **Curso: Especialización en Power Query**: 
-  - **Descripción**: Completed a specialization course in Power Query, focusing on data transformation and preparation techniques. This certification has improved my data cleaning skills significantly.
-  - **Certificate**: [View Certificate](https://app.kajabi.com/certificates/7402fc26)
 
 ---
 
