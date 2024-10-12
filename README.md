@@ -98,7 +98,7 @@ Hi, I’m Jose Luis Doria, a Business Administrator specializing in Business Int
 
 <hr>
 
-## 🎓 <strong>Certificaciones</strong>
+## 🎓 <strong>Certifications</strong>
 
 ### Business Intelligence
 
