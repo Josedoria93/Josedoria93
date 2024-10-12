@@ -104,7 +104,7 @@ Hi, I’m Jose Luis Doria, a Business Administrator specializing in Business Int
 
 - **Introducción a Power BI**:
   - **Description**: I completed an introductory course in Power BI, where I learned about data visualization and analysis. This certification has enabled me to create more effective dashboards.
-  - **Certificate**: [Ver Certificado](https://postimg.cc/ZBtFdTTj)
+  - **Certificate**: [View Certificate](https://postimg.cc/ZBtFdTTj)
 
 - **Power BI Nivel Principiante**: 
   - **Description**: Successfully completed an introductory course in Power BI, focusing on data visualization and analytics. This certification has helped me create more effective dashboards.
