@@ -100,6 +100,12 @@ Hi, I’m Jose Luis Doria, a Business Administrator specializing in Business Int
 
 ## 🎓 <strong>Certifications</strong>
 
+### Data Analytics
+
+- **Google Data Analytics**:
+  - **Description**: Completed a comprehensive course on Google Data Analytics, covering key concepts and techniques for data analysis.
+  - **Certificate**: [View Certificate](https://coursera.org/share/9015251663bdf1f912ad0aa86cc62c51)
+
 ### Business Intelligence
 
 - **Introducción a Power BI**:
