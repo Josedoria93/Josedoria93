@@ -127,6 +127,11 @@ Hi, I’m Jose Luis Doria, a Business Administrator specializing in Business Int
   - **Certificate**: [View Certificate](https://app.kajabi.com/certificates/7402fc26)
 
 ### SQL
+
+- **SQL: A Practical Introduction for Querying Databases**: 
+  - **Description**: Completed a practical introduction course for querying databases using SQL. This certification has enhanced my ability to write effective SQL queries.
+  - **Certificate**: [View Certificate](https://www.coursera.org/account/accomplishments/verify/WSOCGUQNMLRY)
+
 - **SQL Certification**: 
   - **Description**: Completed a course in SQL, enhancing skills in database management and data manipulation. This certification improved my ability to query and manage data effectively.
   - **Certificate**: [View Certificate](https://www.coderhouse.com/co/certificados/66cf1e7a202ee828ef4ebae8?lang=es)
