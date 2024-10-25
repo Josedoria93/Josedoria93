@@ -128,6 +128,10 @@ Hi, I’m Jose Luis Doria, a Business Administrator specializing in Business Int
 
 ### SQL
 
+- **Relational Database Design**: 
+  - **Description**: Completed a course focused on the principles and practices of relational database design. This certification has improved my understanding of database architecture and design concepts.
+  - **Certificate**: [View Certificate](https://coursera.org/share/33b132a9af2ae3ce69020f61abf32e7f)
+
 - **SQL: A Practical Introduction for Querying Databases**: 
   - **Description**: Completed a practical introduction course for querying databases using SQL. This certification has enhanced my ability to write effective SQL queries.
   - **Certificate**: [View Certificate](https://www.coursera.org/account/accomplishments/verify/WSOCGUQNMLRY)
